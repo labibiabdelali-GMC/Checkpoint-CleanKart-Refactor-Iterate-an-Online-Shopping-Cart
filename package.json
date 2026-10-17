@@ -1,0 +1,11 @@
+{
+  "name": "cleankart",
+  "version": "1.0.0",
+  "description": "Refactoring a messy shopping cart into clean code with Strategy, Observer and Builder patterns",
+  "scripts": {
+    "messy": "node iteration-1-messy/cart.js",
+    "clean": "node iteration-2-clean/cart.js",
+    "start": "node iteration-3-patterns/main.js",
+    "test": "node --test test.js"
+  }
+}
